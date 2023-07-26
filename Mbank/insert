@@ -1,0 +1,24 @@
+insert into roles (name) values ('Admin');
+insert into roles (name) values ('Customer');
+insert into roles (name) values ('staff');
+insert into roles (name) values ('cashier');
+
+
+
+
+
+insert into branch (name) values ('srivilliputtur');
+insert into branch (name) values ('sivakasi');
+insert into branch (name) values ('rajapalayam');
+
+
+
+
+
+
+
+insert into catagry (name) values ('child'),('teenager'),('adult'),('senior citizen');
+
+insert into scheme (name) values ('savings'),('salary'),('current'),('0 balance');
+
+
